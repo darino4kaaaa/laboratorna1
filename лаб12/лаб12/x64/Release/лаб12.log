@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(288,2): error C2065: MyForm1: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(288,11): error C2065: newForm: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(288,27): error C2061: синтаксическая ошибка: идентификатор "MyForm1"
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(289,2): error C2065: newForm: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(292,2): error C2065: MyForm2: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(292,11): error C2065: newForm: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(292,27): error C2061: синтаксическая ошибка: идентификатор "MyForm2"
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(293,2): error C2065: newForm: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(296,2): error C2065: MyForm3: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(296,11): error C2065: newForm: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(296,27): error C2061: синтаксическая ошибка: идентификатор "MyForm3"
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(297,2): error C2065: newForm: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(300,2): error C2065: MyForm4: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(300,11): error C2065: newForm: необъявленный идентификатор
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(300,27): error C2061: синтаксическая ошибка: идентификатор "MyForm4"
+C:\Users\Ready2Go\source\repos\лаб12\лаб12\MyForm.h(301,2): error C2065: newForm: необъявленный идентификатор
